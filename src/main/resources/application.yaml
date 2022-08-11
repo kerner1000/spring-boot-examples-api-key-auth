@@ -1,0 +1,2 @@
+app.auth.api-key.auth-token-header-name: X-API-KEY
+app.auth.api-key.auth-token: 12345
